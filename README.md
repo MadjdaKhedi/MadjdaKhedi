@@ -1,16 +1,14 @@
 ## Hi there 👋
+# 💫 About Me :
+<h1 align="center">Hi 👋, I'm Madjda Khedimi</h1><h3 align="center"> ✨ A passionate P.hD. student in Information and Communication Engineering ✨ </h3><h3 align="center"> ✨ I am from Algeria 🇩🇿 ✨ </h3><h3 href="https://developer.android.com" align="center" target="_blank" rel="noreferrer">
+  </h3><p align="center"><br> <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" /><br></p><br>
 
-<!--
-**MadjdaKhedi/MadjdaKhedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+## 🌐 Socials :
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/madjdakhedimi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madjda-khedimi-336154162/) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack :
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
